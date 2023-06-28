@@ -8,6 +8,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Posts](#posts)
 - [Videos](#videos)
 - [Configs](#configs)
+- [Misc](#misc)
 
 
 ## Websites
@@ -52,3 +53,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ## Configs
 - [A Vim-like configuration for Helix](https://github.com/LGUG2Z/helix-vim)
+- [Obedi Ferreira](https://gitlab.com/obxhdx/dotfiles/-/blob/main/config/config/helix/config.toml)
+
+## Misc
+- [Helix + ZK customized interop](https://github.com/YurkoHoshko/helix_zk_notebook)
