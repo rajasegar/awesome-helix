@@ -7,6 +7,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Websites](#websites)
 - [Posts](#posts)
 - [Videos](#videos)
+- [Configs](#configs)
 
 
 ## Websites
@@ -14,6 +15,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Github](https://github.com/helix-editor/helix)
 
 ## Posts
+- [Even more hindsight on Vim, Helix and Kakoune](https://phaazon.net/blog/more-hindsight-vim-helix-kakoune)
 - [Helix Editor – 90% of Neovim With Kakoune](https://dev.to/sophiabrandt/helix-editor-90-of-neovim-with-kakoune-4n9b)
 - [Moving from Vim to Helix](https://dev.to/im6h/moving-from-vim-to-helix-2bbh)
 - [Configure Helix to use ElixirLS](https://dev.to/petros/make-sure-helix-uses-elixir-ls-1hp3)
@@ -47,3 +49,6 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Helix Q&A](https://www.youtube.com/watch?v=x4KYASmFT0o)
 - [Helix – find any command or keybinding](https://www.youtube.com/watch?v=hgOcY1xPxaU)
 - [Helix – Bridging the IDE gap with CLI tools (Part 3)](https://www.youtube.com/watch?v=Un_vn8U4cEw)
+
+## Configs
+- [A Vim-like configuration for Helix](https://github.com/LGUG2Z/helix-vim)
