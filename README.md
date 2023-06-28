@@ -1,4 +1,4 @@
-# Awesome Helix
+# Awesome Helix 🧬
 An Awesome list of resources about the Helix editor such as tools, blogs, articles and videos.
 
 Hoping to keep this list updated as much as possible, any new links through PRs are appreciated.
