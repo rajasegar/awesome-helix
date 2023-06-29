@@ -1,0 +1,2 @@
+[keys.normal.space.c]
+r = [":w", ":config-reload"]

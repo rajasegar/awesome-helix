@@ -1,0 +1,5 @@
+[keys.normal.space.c]
+r = ":config-reload"
+o = ":config-open"
+l = ":o ~/.config/helix/languages.toml"
+i = ":indent-style 2"

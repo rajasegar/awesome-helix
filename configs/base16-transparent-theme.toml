@@ -1,0 +1,16 @@
+theme = "base16_transparent"
+
+[editor] 
+line-number = "relative"
+bufferline = "multiple"
+
+[editor.cursor-shape] 
+insert = "bar"
+
+[keys.normal] 
+esc = ["collapse_selection", "keep_primary_selection"] 
+"C-s" = ":w" 
+"C-q" = "save_selection"
+
+[keys.insert] 
+"C-a" = "normal_mode"

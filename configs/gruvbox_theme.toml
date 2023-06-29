@@ -1,0 +1,4 @@
+theme = "gruvbox"
+
+[editor.indent-guides]
+render = true

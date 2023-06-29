@@ -1,0 +1,17 @@
+theme = "catppuccin_frappe"
+[editor]
+line-number = "relative"
+mouse = false
+auto-format = false
+bufferline = "multiple"
+auto-pairs = true
+[editor.soft-wrap]
+enable = true
+[editor.cursor-shape]
+normal = "block"
+insert = "underline"
+select = "bar"
+[editor.indent-guides]
+character = "⸽"
+[keys.normal]
+C-g = ":toggle-option indent-guides.render"

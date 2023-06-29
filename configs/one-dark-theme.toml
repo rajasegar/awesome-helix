@@ -1,0 +1,58 @@
+theme = "onedark"
+
+[editor]
+line-number = "relative"
+mouse = false
+bufferline = "multiple"
+auto-save = true
+idle-timeout = 0
+rulers = [80]
+color-modes = false
+
+[editor.statusline]
+
+right = ["diagnostics", "position", "position-percentage", "file-encoding", "file-type"]
+# version-control
+[editor.lsp]
+display-messages = true
+display-inlay-hints = true
+
+[editor.cursor-shape]
+insert = "bar"
+normal = "block"
+select = "underline"
+
+[editor.file-picker]
+hidden = false
+
+# [editor.soft-wrap]
+# enable = true
+
+[keys.normal]
+"C-d" = ["half_page_down", "goto_window_center"]
+"C-u" = ["half_page_up", "goto_window_center"]
+esc = ["collapse_selection", "keep_primary_selection"]
+";" = ["flip_selections"]
+"," = "repeat_last_motion"
+X = ["extend_line_up", "extend_to_line_bounds"]
+h = "no_op"
+l = "no_op"
+"C-w" = "no_op"
+
+[keys.insert]
+up = "no_op"
+down = "no_op"
+left = "no_op"
+right = "no_op"
+pageup = "no_op"
+pagedown = "no_op"
+home = "no_op"
+end = "no_op"
+
+[keys.normal."="]
+"("= "rotate_selection_contents_backward"
+")" = "rotate_selection_contents_forward"
+s = "split_selection_on_newline"
+b = "add_newline_below"
+a = "add_newline_above"
+"+" = "format_selections"

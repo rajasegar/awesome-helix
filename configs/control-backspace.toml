@@ -1,0 +1,4 @@
+[keys.normal."C-backspace"]
+r = ":config-reload"
+o = ":config-open"
+l = ":o ~/.config/helix/languages.toml"

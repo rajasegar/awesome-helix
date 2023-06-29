@@ -54,10 +54,15 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Helix – Bridging the IDE gap with CLI tools (Part 3)](https://www.youtube.com/watch?v=Un_vn8U4cEw)
 
 ## Configs
+- [Sample configs](/configs)
 - [A Vim-like configuration for Helix](https://github.com/LGUG2Z/helix-vim)
 - [Obedi Ferreira](https://gitlab.com/obxhdx/dotfiles/-/blob/main/config/config/helix/config.toml)
+- [Jackson Frankland](https://github.com/jacksonfrankland/dotfiles/blob/main/helix/config.toml)
+- [Alex](https://github.com/ravsii/.helix)
+- [Vitor Melo](https://github.com/vtmx/dotfiles/blob/main/config/helix/config.toml)
 
 ## Misc
+- [Helix editor Playground](https://tomgroenwoldt.github.io/helix-editor-playground/)
 - [Helix + ZK customized interop](https://github.com/YurkoHoshko/helix_zk_notebook)
 - [Helix exec: run command on current file with helix using zellij](https://gist.github.com/dlip/79300d6ccb7365d9954796ded8bf202a)
 - [File tree explorer alternative for Helix Editor in i3](https://gist.github.com/muhrizqiardi/49c5cea0b156feda965f75268247b895)
