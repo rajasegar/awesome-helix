@@ -1,0 +1,34 @@
+# // I prefer light themes*
+theme = "onelight"
+
+[editor]
+# // super slow in neovim and emacs but not in helix editor
+line-number = "relative"
+
+# // why not
+mouse = true
+
+# // use work on web development, never saw anything get "auto formatted"
+auto-format = true
+
+# // if I paste code, extra auto pairs are generated so I turned it off
+auto-pairs = false
+
+[editor.lsp]
+# // yet to see this in action, supposedly some msg will be displayed on line below "status line"
+# // and yes all the language servers on in path and working in other editors
+display-messages = true
+
+
+[editor.cursor-shape]
+# // used to it
+insert = "bar"
+
+normal = "block"
+
+# // help differentiate from other modes
+select = "underline"
+
+[editor.file-picker]
+# // file picker is handy
+hidden = false
