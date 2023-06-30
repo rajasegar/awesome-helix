@@ -60,6 +60,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Jackson Frankland](https://github.com/jacksonfrankland/dotfiles/blob/main/helix/config.toml)
 - [Alex](https://github.com/ravsii/.helix)
 - [Vitor Melo](https://github.com/vtmx/dotfiles/blob/main/config/helix/config.toml)
+- [Arthur Deierlein](https://github.com/C0rydoras/stuffdir-arch/blob/main/config/helix/config.toml) - For setting up handlebars and Ember
 
 ## Misc
 - [Helix editor Playground](https://tomgroenwoldt.github.io/helix-editor-playground/)
