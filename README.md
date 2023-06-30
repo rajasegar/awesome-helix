@@ -61,6 +61,17 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Alex](https://github.com/ravsii/.helix)
 - [Vitor Melo](https://github.com/vtmx/dotfiles/blob/main/config/helix/config.toml)
 - [Arthur Deierlein](https://github.com/C0rydoras/stuffdir-arch/blob/main/config/helix/config.toml) - For setting up handlebars and Ember
+- [helix-editor-config-toml](https://github.com/x448/helix-editor-config-toml/tree/main) - A Helix editor configuration (config.toml) for new users.
+- [Andrew Prentice](https://github.com/scalarwaves/dotfiles/blob/main/helix/config.toml)
+- [Howard Chen](https://github.com/EDToaster/dotfiles/blob/main/configs/hx/config.toml)
+- [Delaware Valley Regional Planning Commission](https://github.com/dvrpc/oracle-dev-ansible/blob/ac2988a2803bc3dc76d3fe2f7a08c28d32a6b4cc/roles/rust/files/helix_config.toml)
+- [Seth Messer](https://github.com/megalithic/dotfiles/blob/212893035be0c45ec057e85fc381fb2df05e8fa9/config/helix/config.toml)
+- [Hien Pham](https://github.com/hienduyph/dotfiles/blob/18ae38c1eed558e98c50f23722dbd7198cef9748/.config/helix/config.toml)
+- [Kangwook Lee](https://github.com/pbzweihander/.dotfiles/blob/3b62cf14f420358daf7c98533681305d908493a7/home/.config/helix/config.toml)
+- [Bart Dorsey](https://github.com/bartdorsey/dotfiles/blob/6fd5d22ee2ac283cb26de28b9f1101a05f0530f3/helix/.config/helix/config.toml)
+- [Gian Lu](https://github.com/fusillicode/dotfiles/blob/f047bab450202a1d01295f2666edb1cf14ff5e29/helix/config.toml)
+- [Benoît Cortier](https://github.com/CBenoit/dotfiles/blob/31c41308327685101219474b7764e071470316c6/helix/.config/helix/config.toml)
+- [Robert](https://github.com/clo4/dotfiles/blob/674dc6417c4d0ffa688d132fd46b027561afcea6/dot_config/helix/config.toml)
 
 ## Misc
 - [Helix editor Playground](https://tomgroenwoldt.github.io/helix-editor-playground/)
