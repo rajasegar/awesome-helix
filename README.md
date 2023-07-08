@@ -75,8 +75,8 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Robert](https://github.com/clo4/dotfiles/blob/674dc6417c4d0ffa688d132fd46b027561afcea6/dot_config/helix/config.toml)
 
 ## Misc
-- [Helix editor Playground](https://tomgroenwoldt.github.io/helix-editor-playground/)
-- [Helix Shortcut Quiz](https://tomgroenwoldt.github.io/helix-shortcut-quiz/)
+- [Helix Editor Playground](https://github.com/tomgroenwoldt/helix-editor-playground)
+- [Helix Shortcut Quiz](https://github.com/tomgroenwoldt/helix-shortcut-quiz)
 - [Helix + ZK customized interop](https://github.com/YurkoHoshko/helix_zk_notebook)
 - [Helix exec: run command on current file with helix using zellij](https://gist.github.com/dlip/79300d6ccb7365d9954796ded8bf202a)
 - [File tree explorer alternative for Helix Editor in i3](https://gist.github.com/muhrizqiardi/49c5cea0b156feda965f75268247b895)
