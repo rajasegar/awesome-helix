@@ -39,6 +39,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Helix – Release 22.12 (GIT GUTTERS!)](https://www.youtube.com/watch?v=uRnGMu3jDyE)
 - [A very brief overview of the helix modal text editor](https://www.youtube.com/watch?v=Y9nTR_bdIZU)
 - [helixcasts](https://www.youtube.com/@helixcasts)
+- [Walking through my dev setup](https://youtu.be/uuO3uG4bj_w)
 
 ### Luke Pighetti Videos
 - [Helix overview, with Rust examples](https://www.youtube.com/watch?v=vZhBSd6543A)
