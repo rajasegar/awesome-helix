@@ -28,6 +28,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Helix Editor – 90% of Neovim With Kakoune](https://www.rockyourcode.com/helix-editor-90-percent-of-neovim-with-kakoune/)
 - [Switching to Helix: My Experience and Tips](https://blog.setale.me/2022/12/27/Switching-to-Helix-My-Experience-and-Tips/)
 - [Helix editor with multiple lsp's for one language](https://roderik.no/helix-editor-with-multiple-lsps-for-one-language)
+- [Note talking with Helix, Tp-Note and LanguageTool](https://blog.getreu.net/20220828-tp-note-new8/)
 
 
 ## Videos
