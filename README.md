@@ -30,7 +30,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Helix editor with multiple lsp's for one language](https://roderik.no/helix-editor-with-multiple-lsps-for-one-language)
 - [Note talking with Helix, Tp-Note and LanguageTool](https://blog.getreu.net/20220828-tp-note-new8/)
 - [Turning Helix into an IDE with the help of WezTerm and CLI tools](https://quantonganh.com/2023/08/19/turn-helix-into-ide)
-
+- [Neovim vs Helix: Which is the best Vi/Vim style modal editor?](https://elsewebdevelopment.com/neovim-vs-helix-which-is-the-best-vi-vim-style-modal-editor/)
 
 ## Videos
 - [0 to LSP : Helix RC From Scratch](https://www.youtube.com/watch?v=aiSI6vdZWgE)
