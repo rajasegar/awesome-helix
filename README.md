@@ -86,3 +86,4 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Helix exec: run command on current file with helix using zellij](https://gist.github.com/dlip/79300d6ccb7365d9954796ded8bf202a)
 - [File tree explorer alternative for Helix Editor in i3](https://gist.github.com/muhrizqiardi/49c5cea0b156feda965f75268247b895)
 - [Code snippets in your terminal](https://github.com/maaslalani/nap)
+- [Dance - Helix](https://marketplace.visualstudio.com/items?itemName=silverquark.dancehelix) - Visual Studio Code extension for Helix
