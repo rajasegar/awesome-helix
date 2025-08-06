@@ -87,3 +87,4 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [File tree explorer alternative for Helix Editor in i3](https://gist.github.com/muhrizqiardi/49c5cea0b156feda965f75268247b895)
 - [Code snippets in your terminal](https://github.com/maaslalani/nap)
 - [Dance - Helix](https://marketplace.visualstudio.com/items?itemName=silverquark.dancehelix) - Visual Studio Code extension for Helix
+- [Keyglide - Competitive Online File Editing](https://keygli.de)
