@@ -16,6 +16,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Github](https://github.com/helix-editor/helix)
 - [Reddit](https://www.reddit.com/r/HelixEditor/)
 - [Matrix](https://matrix.to/#/#helix-community:matrix.org)
+- [Helix Editor Tutorials](https://helix-editor-tutorials.com/)
 
 ## Posts
 - [Even more hindsight on Vim, Helix and Kakoune](https://phaazon.net/blog/more-hindsight-vim-helix-kakoune)
