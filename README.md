@@ -89,3 +89,4 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Code snippets in your terminal](https://github.com/maaslalani/nap)
 - [Dance - Helix](https://marketplace.visualstudio.com/items?itemName=silverquark.dancehelix) - Visual Studio Code extension for Helix
 - [Keyglide - Competitive Online File Editing](https://keygli.de)
+- [IWE](https://github.com/iwe-org/iwe) - LSP server for markdown knowledge management with go-to-definition, backlinks, link completion, and code actions
